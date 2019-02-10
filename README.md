@@ -1,3 +1,10 @@
+# This forked repository is for making Filipino translations only, ignore other languages
+
+- If you are willing to help for Filipino translation, message me first through email: fcuadillera@gmail.com or message me on Facebook: facebook.com/fcuadillera and I give you instructions. We will plan which article / file section you will be translating.
+- To avoid merging issues, clone this forked repo to your local machine and make sure to update it from time to time using GitHub Desktop then create a pull request and I will manage the merging part.
+- If you are experienced GitHub user and willing to do more work than me, I can give you full permissions in this forked repo and make sure you'll do it seriously :D
+- If you are willing to contribute but not familiar in using GitHub, you can still contribute and just send your version through my E-mail.
+
 # Translations of the WCA Regulations
 
 - For the English Regulations, please visit: [thewca/wca-regulations](https://github.com/thewca/wca-regulations)
