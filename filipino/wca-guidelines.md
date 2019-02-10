@@ -13,7 +13,7 @@ Ang mga Alituntunin ng WCA ay dumadagdag sa [Mga Regulasyon ng WCA](regulations:
 
 ### Pagbibilang
 
-Ang mga Alituntunin ay may bilang na may kaugnayan sa regulasyon. Tandaan na ang mga Alituntunin ay may kaugnayan sa iisang Regulation, at ang ibang mga Alituntunin naman ay maaaring may kaugnayan sa Regulasyong hindi na pinaiiral.
+Ang mga Alituntunin ay may bilang na may kaugnayan sa regulasyon. Tandaan na ang mga Alituntunin ay may kaugnayan sa iisang Regulasyon, at ang ibang mga Alituntunin naman ay maaaring may kaugnayan sa Regulasyong hindi na pinaiiral.
 
 ### MGA pananda
 
