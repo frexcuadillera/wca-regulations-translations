@@ -9,12 +9,12 @@ Pinakahuling rebisyong tekstwal: Mayo 29, 2018
 
 ### Pagsasalingwika
 
-Tandaan na ang mga pagsasalingwika ay hindi opisyal na bersyon, kahit na ito ay nakasama sa websayt ng WDA para mapakinabangan.
+Tandaan na ang mga pagsasalingwika ay hindi opisyal na bersyon, kahit na ito ay nakasama sa websayt ng WCA para mapakinabangan.
 Kung may pagkakaiba sa sinalingwika at sa (kasalukuyang opisyal) bersyong Ingles, ang bersyong Ingles ang dapat gamitin
 
 ### Mga Regulasyon at Alituntunin ng WCA
 
-Ang mga Regulasyon ng WCA ay naglalaman ng lahat ng mga Regulasyong ginagamit sa lahat ng opisyal na kompetisyon na pinahihintulutan ng Asosasyon ng World Cube Association. 
+Ang mga Regulasyon ng WCA ay naglalaman ng lahat ng mga Regulasyong ginagamit sa lahat ng opisyal na kompetisyon na pinahihintulutan ng Asosasyon ng World Cube. 
 Ang mga Regulasyon ng WCA ay dinaragdagan ng [Mga Alituntunin ng WCA](guidelines:top). Ang mga Regulasyon ay dapat ituring na kumpletong dokumento, pero ang mga Alituntunin ay naglalaman lamang ng mga klaripikasyon at paliwanag. 
 
 ### Paggamit ng salita
