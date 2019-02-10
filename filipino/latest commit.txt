@@ -1,1 +1,4 @@
 Latest commit d2f4b83
+
+Version: January 01, 2018
+Latest textual revision: May 29, 2018
