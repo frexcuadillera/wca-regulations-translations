@@ -185,7 +185,7 @@ Para maging makahulugan, ang bawat Alituntunin ay pinag-uri sa isa sa mga sumusu
 
 ## <Artikulo-C><one-handed><onehandedsolving> Artikulo C: One-Handed Solving
 
-- C1b+) [KLARIPIKASYON] The competitor may use both hands during inspection.
+- C1b+) [KLARIPIKASYON] Ang manlalaro ay maaaring gamitin ang parehong kamay sa inspeksyon.
 - C1b++) [KLARIPIKASYON] The competitor is not required to use the same solving hand for different attempts of the same round.
 - C1b+++) [PAALALA] Use of the surface is permitted while solving or repairing the puzzle.
 
