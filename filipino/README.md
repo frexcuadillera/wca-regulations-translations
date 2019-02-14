@@ -1,4 +1,4 @@
-WCA Regulations (Filipino version)
+WCA Regulations (Filipino version) [work in progress] 
 ================================
 
 This directory contains the Filipino version of
