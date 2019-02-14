@@ -5,26 +5,26 @@
 
 ## Notes
 
-Latest textual revision: May 29, 2018
+Pinaka-latest na textual revision: May 29, 2018
 
 ### WCA Regulations
 
-The WCA Guidelines supplement the [WCA Regulations](regulations:top). Please see the Regulations for more information about the WCA.
+Ang WCA Guidelines ay pangdagdag lang sa [WCA Regulations](regulations:top). Tingnan ang Regulations para sa mas karagdagang impormasyon tungkol sa WCA.
 
 ### Numbering
 
-Guidelines are numbered in correspondence with related regulations. Note that multiple Guidelines may correspond to the same Regulation, and some Guidelines correspond to Regulations that do not exist anymore.
+Ang mga Guideline ay numbered kasama ng related na regulations. Maraming Guideline ay posibleng mag-correspond sa katulad na Regulation, at pwede ring mag-correspond sa mga Regulation na tinanggal na.
 
 ### Labels
 
-To be more informative, each Guideline is classified using one of the following labels. Note that this should be treated as metadata, not as a description of importance.
+Para mas madaling maintindihan, ang bawat Guideline ay naka-classify gamit ang mga sumusunod na label. Ito ay metadata lang, hindi description.
 
-- <label>[ADDITION] Additional information to supplement the Regulations.
-- <label>[CLARIFICATION] Information to address any possible questions about the interpretation of the Regulations.
-- <label>[EXPLANATION] Information that clarifies the intent of Regulations.
-- <label>[RECOMMENDATION] Something that is not strictly mandatory, but that should be done if possible.
-- <label>[REMINDER] Information that may be addressed by other Regulations/Guideline, but whose relevance is worth reiterating.
-- <label>[EXAMPLE] An example of how to apply a Regulation.
+- <label>[ADDITION] Additional na information pangdagdag sa Regulations.
+- <label>[CLARIFICATION] Mga information na sumasagot sa mga posibleng tanong tungkol sa Regulation.
+- <label>[EXPLANATION] Mga information na nagpapaliwanag sa intensyon ng Regulations.
+- <label>[RECOMMENDATION] Mga bagay na hindi naman mandatory, pero dapat gawin kung pwede.
+- <label>[REMINDER] Mga information na nasabi sa ibang mga Regulation/Guideline, pero mahalagang matandaan.
+- <label>[EXAMPLE] Example kung paano maaaply ang Regulation.
 
 
 ## <contents> [Contents](guidelines:contents)
@@ -34,16 +34,16 @@ To be more informative, each Guideline is classified using one of the following 
 
 ## <article-1><officials><officials> Article 1: Officials
 
-- 1c+) [CLARIFICATION] "The WCA Delegate" refers to anyone fulfilling the role of a WCA Delegate at a competition.
-- 1c3+) [RECOMMENDATION] Results should be ready at the end of the last day of competition.
-- 1c3++) [ADDITION] Physical records (e.g. score sheets, written solutions from Fewest Moves Solving) must be retained for a minimum of one month. Digital records (e.g. scramble sequences, results) must be retained permanently.
-- 1c3b+) [CLARIFICATION] If there are multiple groups, it is not necessary to identify which competitor was in which groups.
-- 1c4+) [RECOMMENDATION] Corrections to the results should be available within one week of the competition date.
-- 1c10+) [CLARIFICATION] It is sufficient to ensure access to a digital copy of the Regulations.
-- 1h+) [RECOMMENDATION] Competitors in the same group should use the same scramble sequences. Different groups should use different scramble sequences.
-- 1h++) [RECOMMENDATION] All attempts in the final round of an event, as well as all Fewest Moves Solving attempts, should have the same scramble sequences for all competitors (i.e. only 1 group).
-- 1h1+) [CLARIFICATION] Scramblers/judges should only scramble for/judge other competitors in the same group only if it is important for competition logistics.
-- 1h1++) [CLARIFICATION] For Fewest Moves Solving, judges may judge competitors in their own group before they have finished their attempt (i.e. while they are competing).
+- 1c+) [CLARIFICATION] Ang "WCA Delegate" ay ang mga taong ginagawa ang role ng isang WCA Delegate sa isang competition.
+- 1c3+) [RECOMMENDATION] Ang mga result ay dapat naka-ready na pagkatapos ng huling araw ng competition.
+- 1c3++) [ADDITION] Mga physical records (e.g. score sheets, written solution para sa Fewest Moves Solving) ay dapat itabi nang isang buwan o higit pa. Ang mga digital records (e.g. scramble sequences, results) ay dapat permanenteng itabi.
+- 1c3b+) [CLARIFICATION] Kung maraming group, hindi na mahalagang alamin ang group ng bawat isa.
+- 1c4+) [RECOMMENDATION] Ang mga correction sa mga result ay dapat available sa loob ng isang linggo pagkatapos ng competition.
+- 1c10+) [CLARIFICATION] Mas maganda kung may access sa digital copy ng mga Regulation.
+- 1h+) [RECOMMENDATION] Ang mga competitor na magkakagrupo ay dapat gamitin ng magkakatulad na scramble sequences. Ang ibang group ay dapat may ibang ginamit na scramble sequences.
+- 1h++) [RECOMMENDATION] Lahat ng attempt sa final round ng event, pati rin sa attempt ng Fewest Moves Solving, ay dapat may magkakatulad na scramble sequences para sa lahat ng competitor (i.e. only 1 group).
+- 1h1+) [CLARIFICATION] Ang mga scrambler/judge ay dapat mag-scramble o mag-judge ng ibang competitor sa iisang group lamang kung ito ay mahalaga sa competition logistics.
+- 1h1++) [CLARIFICATION] Para sa Fewest Moves Solving, ang mga judge ay pwedeng i-judge ang mga competitor ng kanilang group bago nila matapos ang kanilang attempt (i.e. habang nag-cocompete).
 
 
 ## <article-2><competitors><competitors> Article 2: Competitors
