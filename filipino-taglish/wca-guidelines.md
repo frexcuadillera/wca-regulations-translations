@@ -48,19 +48,19 @@ Para mas madaling maintindihan, ang bawat Guideline ay naka-classify gamit ang m
 
 ## <article-2><competitors><competitors> Article 2: Competitors
 
-- 2c+) [ADDITION] First-time competitors should register using their legal name. They may register using a reasonable nickname, at the discretion of the WCA Delegate.
-- 2c++) [ADDITION] Competitors must not provide intentionally misleading information, and returning competitors should provide information consistent with past information (e.g. exact name and WCA ID).
-- 2c1+) [ADDITION] The requirements for a completed registration must be clearly stated on the competition website.
-- 2c1++) [EXAMPLE] For example, the organization team may require a confirmation e-mail to be answered before a particular date, pre-payment of the registration fee, or paying due registration fees of past competitions. The organization team should carefully consider the fairness of the requirements.
-- 2d+) [ADDITION] Date of birth and contact information should be especially secured.
-- 2d++) [RECOMMENDATION] If a third party (e.g. journalist) asks the organization team to be put in contact with any competitor(s), the competitor(s) should first be asked for consent.
-- 2e+) [CLARIFICATION] If a competitor holds multiple citizenships, they may choose which country to represent at their first competition.
-- 2e++) [ADDITION] The WCA Delegate should also verify the name and date of birth by means of documents (e.g. a passport) of every new competitor at their first competition.
-- 2e3+) [CLARIFICATION] Stateless competitors have no national records and rankings, nor continental records and rankings.
-- 2h+) [CLARIFICATION] Competitors may be barefoot for Solving With Feet.
-- 2i1b+) [CLARIFICATION] This includes relevant devices which are switched off or disconnected.
-- 2j2+) [EXAMPLE] For example, if a competitor is disqualified from an event for failing to show up for the final round, their results from earlier rounds remain valid.
-- 2s+) [REMINDER] Special accommodations must be noted in the Delegate Report.
+- 2c+) [ADDITION] Ang mga first-time na competitor ay dapat mag-register gamit ang kanilang tunay na pangalan. Pwede silang mag-register gamit ang makahulugang palayaw, kung papayagan ng WCA Delegate.
+- 2c++) [ADDITION] Ang mga competitor ay dapat hindi magbigay ng maling information, at ang mga dating competitor ay dapat magbigay ng information na katulad ng nakaraang information (e.g. exact name and WCA ID).
+- 2c1+) [ADDITION] Ang mga requirement para makapag-register ay dapat nakalagay sa competition website.
+- 2c1++) [EXAMPLE] Halimbawa, ang organization team ay pwedeng humingi ng confirmation e-mail at masagot bago ang nakatakdang date, pre-payment ng registration fee, o payment para sa registration fee ng nakaraang competition. Ang organization team ay dapat maka-consider ang pagiging patas ng mga requirement.
+- 2d+) [ADDITION] Ang date of birth at contact information ay dapat secured.
+- 2d++) [RECOMMENDATION] Kung ang mga third party (e.g. journalist) ay humingi ng contact ng kahit sinong competitor sa organization team, ang mga competitor ang dapat munang hingian ng permiso.
+- 2e+) [CLARIFICATION] Kung ang competitor ay may multiple citizenships, pwede silang pumili ng bansang kanilang i-rerepresent sa kanilang unang competition.
+- 2e++) [ADDITION] Ang WCA Delegate ay dapat ma-verify ang pangalan at date of birth gamit ang mga document (e.g. a passport) ng bawat competitor sa kanilang unang competition.
+- 2e3+) [CLARIFICATION] Ang mga stateless competitors ay walang mga national record at ranking, o continental record at ranking.
+- 2h+) [CLARIFICATION] Ang mga competitor ay pwedeng nakayapak para sa Solving With Feet.
+- 2i1b+) [CLARIFICATION] Kasama dito ang mga device na naka-switch off o disconnected.
+- 2j2+) [EXAMPLE] Halimbawa, ang isang competitor ay na-disqualify sa isang event dahil hindi naglaro para sa final round, ang kanilang mga result ng naunang mga round ay valid pa rin.
+- 2s+) [REMINDER] Ang mga special accommodation ay dapat noted sa Delegate Report.
 
 
 ## <article-3><puzzles><puzzles> Article 3: Puzzles
