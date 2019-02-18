@@ -9,50 +9,50 @@ Latest textual revision: May 29, 2018
 
 ### Translation
 
-Please note that translations are not official versions, even though they are provided on the WCA website for convenience.
-If there is a difference between a translation and the (current official) English version, the English version must be used.
+Tandaan na ang mga translation ay hindi official versions, kahit na ito ay nasa website ng WCA.
+Kung may pagkakaiba ang translation at ang (current official) English version, ang English version ang dapat gamitin.
 
 ### WCA Regulations and Guidelines
 
-The WCA Regulations contain the full set of Regulations that apply to all official competitions sanctioned by the World Cube Association.
-The WCA Regulations are also supplemented by the [WCA Guidelines](guidelines:top). The Regulations should be considered a complete document, but the Guidelines contain additional clarifications and explanations.
+Ang mga WCA Regulation ay naglalaman ng buong set ng mga Regulation na susundin sa lahat ng official competition na aprubado ng World Cube Association.
+Ang mga WCA Regulation ay nadadagdagan ng [WCA Guidelines](guidelines:top). Ang mga Regulation ay dapat ituring na complete document, pero ang mga Guideline ay additional na clarification at explanation lamang.
 
 ### Wording
-Uses of the words "must", "must not", "should", "should not" and "may" match [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
+Ang gamit ng mga salitang "karapat-dapat", "hindi karapat-dapat", "dapat", "hindi dapat" at "pwede" ay katulad ng [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
 
 ### Information on the Internet
-Website of World Cube Association: [www.worldcubeassociation.org](https://www.worldcubeassociation.org/)
-Original source of the WCA regulations: [www.worldcubeassociation.org/regulations](https://www.worldcubeassociation.org/regulations/)
-WCA Regulations in [PDF format](link:pdf)
+Website ng World Cube Association: [www.worldcubeassociation.org](https://www.worldcubeassociation.org/)
+Original source ng mga WCA regulation: [www.worldcubeassociation.org/regulations](https://www.worldcubeassociation.org/regulations/)
+WCA Regulations na naka [PDF format](link:pdf)
 
 ### Source
-Development of the WCA Regulations and Guidelines is public [on GitHub](https://github.com/thewca/wca-regulations).
+Development ng mga WCA Regulation at Guideline ay naka-public [sa GitHub](https://github.com/thewca/wca-regulations).
 
 ### Contact
-For questions and feedback, please contact the [WCA Regulations Committee (WRC)](mailto:wrc@worldcubeassociation.org).
+Para sa mga tanong at feedback, i-contact lamang ang [WCA Regulations Committee (WRC)](mailto:wrc@worldcubeassociation.org).
 
 
 ## <contents> [Contents](regulations:contents)
 
-Note: Because Article and Regulation numbers are not reassigned when Regulations are deleted, there may be gaps in numbering.
+Note: Ang mga number ng Article at Regulation ay hindi nababago pag may Regulation na nabura, magkakaroon ng gap sa numbering.
 
 <table-of-contents>
 
 
 ## <article-1><officials><officials> Article 1: Officials
 
-- 1a) A competition must include a WCA Delegate and an organization team (consisting of one or more individuals) with the following officials: judges, scramblers and score takers.
-- 1b) The organization team of a competition is responsible for logistics before, during, and after the competition.
-- 1c) The WCA Delegate may delegate responsibilities to other members of the organization team, but is ultimately accountable for how these responsibilities are carried out. The WCA Delegate for a competition is responsible for:
-    - 1c1) Reporting to the WCA Board regarding adherence to WCA Regulations during the competition, the overall course of the competition, and any incidents. The report must be submitted to the WCA Board within one week of the end of the competition.
-    - 1c3) Sending the competition results to the WCA Results Team within one week of the end of the competition.
-        - 1c3a) All scramble sequences used during a competition must be sent with the results of the competition.
-        - 1c3b) All scramble sequences must be labeled with the events, rounds, and groups for which they were used.
-    - 1c4) Sending corrections to the competition results to the WCA Results Team.
-    - 1c5) Advising the other officials where necessary.
-    - 1c6) Approving all events and round formats of a competition, before the competition starts, and if changes are required during the competition.
-    - 1c7) Deciding about disqualifying competitors during the competition.
-    - 1c8) Providing the scramble sequences.
+- 1a) Ang isang competition may dapat may WCA Delegate at organization team (binubuo ng isa o higit pang mga tao) kasama ng sumusunod na mga official: mga judge, mga scrambler at mga score taker.
+- 1b) Ang organization team ng isang competition ay responsable para sa logistics bago, habang, at pagkatapos ng competition.
+- 1c) ANg WCA Delegate ay pweding magkatiwala ng mga responsibilidad sa ibang mga member ng organization team, pero siya ang pinakamananagot kung paano gagawin ang mga responsibilidad. Ang WCA Delegate ng isang competition ay responsable sa:
+    - 1c1) Pagrereport sa WCA Board tungkol sa pagkakasunod ng mga WCA Regulation sa gitna ng competition, kabuuang pangyayari sa isang competition, at mga incident. Ang report ay dapat  mai-submit sa WCA Board sa loob ng isang linggo pagkatapos ng competition.
+    - 1c3) Pag-sesend ng competition results sa WCA Results Team sa loob ng isang linggo pagkatapos ng competition.
+        - 1c3a) Lahat ng scramble sequences na ginamit sa competition ay dapat mai-send kasama ng mga result ng competition.
+        - 1c3b) Lahat ng scramble sequences ay dapat may label ng mga event, round, at group kung saan ito nagamit.
+    - 1c4) Pag-sesend ng mga correction ng competition  sa WCA Results Team.
+    - 1c5) Pag-aadvice sa ibang mga official kung kinakailangan.
+    - 1c6) Pag-aapprove ng lahat ng events at round formats ng isang competition, bago magsimula ang competition, at kung may pagbabago na kailangan sa gitna ng competition.
+    - 1c7) Pagdedesisyon ng pag-didisqualify ng mga competitor sa gitna ng competition.
+    - 1c8) Pag-poprovide ng scramble sequences.
     - 1c9) Deciding about changes to the scheduled times of rounds. In cases of such changes, a clear announcement must be made to all competitors.
     - 1c10) Making a copy of the WCA Regulations available at the competition.
 - 1e) Each event must have one or more judges.
