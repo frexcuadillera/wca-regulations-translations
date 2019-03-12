@@ -66,7 +66,7 @@ Para mas madaling maintindihan, ang bawat Guideline ay naka-classify gamit ang m
 ## <article-3><puzzles><puzzles> Article 3: Puzzles
 
 - 3a+) [CLARIFICATION] Ang mga competitor ay pwedeng gumamit ng puzzle kahit anong reasonable na size, kung papayagan ng WCA Delegate.
-- 3a++) [ADDITION] By default, a competitor should use the same puzzle for consecutive attempts in a speed solving round. A competitor may switch puzzles between attempts, at the discretion of the judge or WCA Delegate.
+- 3a++) [ADDITION] Ang madalas, ang competitor ay dapat gumamit ng iisang puzzle para sa magkasunod na attempts sa speed solving round. Ang competitor ay pwede namang magpalit ng mga puzzle kada attempt, kung papayagan ng judge o ng WCA Delegate.
 - 3a+++) [CLARIFICATION] Competitors may borrow puzzles from other competitors privately, to use in competition.
 - 3a1+) [CLARIFICATION] Competitors may be disqualified if they do not have a puzzle ready to submit soon after they are called (e.g. if they planned to use a puzzle that another competitor is currently using, and therefore cannot submit a puzzle at the moment).
 - 3d1b+) [CLARIFICATION] Patterns do not need to be present on every face, but only on faces where a distinct color cannot be found. Pieces must not have any features (e.g. textures, pattern irregularities) that significantly distinguish them from similar pieces.
