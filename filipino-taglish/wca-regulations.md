@@ -39,11 +39,11 @@ Note: Ang mga number ng Article at Regulation ay hindi nababago pag may Regulati
 <table-of-contents>
 
 
-## <article-1><officials><officials> Article 1: Officials
+## <article-1><officials><officials> Article 1: Mga Official
 
 - 1a) Ang isang competition may dapat may WCA Delegate at organization team (binubuo ng isa o higit pang mga tao) kasama ng sumusunod na mga official: mga judge, mga scrambler at mga score taker.
 - 1b) Ang organization team ng isang competition ay responsable para sa logistics bago, habang, at pagkatapos ng competition.
-- 1c) ANg WCA Delegate ay pweding magkatiwala ng mga responsibilidad sa ibang mga member ng organization team, pero siya ang pinakamananagot kung paano gagawin ang mga responsibilidad. Ang WCA Delegate ng isang competition ay responsable sa:
+- 1c) Ang WCA Delegate ay pwedeng magkatiwala ng mga responsibilidad sa ibang mga member ng organization team, pero siya ang pinakamananagot kung paano gagawin ang mga responsibilidad. Ang WCA Delegate ng isang competition ay responsable sa:
     - 1c1) Pagrereport sa WCA Board tungkol sa pagkakasunod ng mga WCA Regulation sa gitna ng competition, kabuuang pangyayari sa isang competition, at mga incident. Ang report ay dapat  mai-submit sa WCA Board sa loob ng isang linggo pagkatapos ng competition.
     - 1c3) Pag-sesend ng competition results sa WCA Results Team sa loob ng isang linggo pagkatapos ng competition.
         - 1c3a) Lahat ng scramble sequences na ginamit sa competition ay dapat mai-send kasama ng mga result ng competition.
@@ -53,36 +53,36 @@ Note: Ang mga number ng Article at Regulation ay hindi nababago pag may Regulati
     - 1c6) Pag-aapprove ng lahat ng events at round formats ng isang competition, bago magsimula ang competition, at kung may pagbabago na kailangan sa gitna ng competition.
     - 1c7) Pagdedesisyon ng pag-didisqualify ng mga competitor sa gitna ng competition.
     - 1c8) Pag-poprovide ng scramble sequences.
-    - 1c9) Deciding about changes to the scheduled times of rounds. In cases of such changes, a clear announcement must be made to all competitors.
-    - 1c10) Making a copy of the WCA Regulations available at the competition.
-- 1e) Each event must have one or more judges.
-    - 1e1) A judge is responsible for executing the procedures of the event.
-        - 1e1a) A judge may judge multiple competitors simultaneously at the discretion of the WCA Delegate, as long as the judge is able to ensure that all WCA Regulations are followed at all times.
-    - 1e2) Every competitor must be available for judging. If required to judge, a competitor may be excused only for a legitimate reason (e.g. being unfamiliar with a puzzle), at the discretion of the WCA Delegate. Penalty: disqualification from the competition (see [Regulation 2k](regulations:regulation:2k)).
-- 1f) Each event must have one or more scramblers. Exception: Fewest Moves Solving.
-    - 1f1) A scrambler applies scramble sequences to prepare puzzles for attempts.
-    - 1f2) Every competitor must be available for scrambling. If required to scramble, a competitor may be excused only for a legitimate reason (e.g. being unfamiliar with scrambling notation), at the discretion of the WCA Delegate. Penalty: disqualification from the competition (see [Regulation 2k](regulations:regulation:2k)).
-- 1g) Each event must have one or more score takers.
-    - 1g1) A score taker is responsible for compiling results.
-    - 1g2) Changes to the result on a score sheet are only permitted at the discretion of the WCA Delegate.
-- 1h) Competitors in the same round of an event may be divided into groups.
-    - 1h1) Scramblers and judges for a round should not scramble for/judge competitors in their own group before they have finished all of their attempts for the round. They may scramble for/judge competitors in their own group at the discretion of the WCA Delegate, but the organization team must ensure that scramblers and judges cannot see any scramble sequences for their attempts that they have not attempted yet.
-- 1j) All officials may compete in the competition.
-- 1k) Officials may serve multiple roles (e.g. organization team, WCA Delegate, judge, score taker, scrambler).
+    - 1c9) Pagdedesisyon ng pagbabago ng naka-schedule na oras ng mga round. Kung may pagbabago man, dapat itong i-announce nang maayos sa lahat ng competitor.
+    - 1c10) Paggagawa ng kopya ng WCA Regulations para sa competition.
+- 1e) Ang bawat event ay dapat may isa o higit pang mga judge.
+    - 1e1) Ang judge ay responsable pagsasagawa ng procedure ng isang event.
+        - 1e1a) Pwedeng mag-judge ang isang judge sa iba't-ibang mga competitor nang sabay-sabay kung papayagan WCA Delegate, basta nasusunod ng judge ang lahat ng WCA Regulation.
+    - 1e2) Lahat ng competitor ay dapat available mag-judge. Kung inutusang mag-judge, ang isang competitor ay pwede lamang tumanggi kung may katanggap-tanggap na dahilan (e.g. hindi familiar sa puzzle), kung papayagan ng WCA Delegate. Penalty: pagka-disqualify sa competition (tingnan ang [Regulation 2k](regulations:regulation:2k)).
+- 1f) Ang bawat event ay dapat may isa o higit pang mga scrambler. Exception: Fewest Moves Solving.
+    - 1f1) Ang isang scrambler ay gagamitin at susundin ang scramble sequences sa puzzle para sa mga attempt.
+    - 1f2) Lahat ng competitor ay dapat available sa scrambling.  Kung inutusang mag-scramble, ang isang competitor ay pwede lamang tumanggi kung may katanggap-tanggap na dahilan (e.g. hindi familiar sa scrambling notation), kung papayagan ng WCA Delegate. Penalty: pagka-disqualify sa competition (tingnan ang [Regulation 2k](regulations:regulation:2k)).
+- 1g) Ang bawat event ay dapat may isa o higit pang mga score taker.
+    - 1g1) Ang isang score taker ay responsable sa pagcocompile ng mga result.
+    - 1g2) Ang mga pagbabago ng result sa score sheet ay pwede lamang kung papayagan ng WCA Delegate.
+- 1h) Ang mga competitor sa isang round ng event ay pwedeng hatiin sa grupo.
+    - 1h1) Ang mga scrambler at judge ng isang round ay hindi pwedeng mag-scramble/mag-judge sa kanilang grupo pagkatapos ng kanilang attempt sa round. Pwede lamang silang mag-scramble/mag-judge sa kanilang grupo kung papayagan ng WCA Delegate, pero dapat masigurado ng organization team na hindi malalaman ng mga scrambler at judge ang mga scramble sequence na hindi pa nila na-aattempt.
+- 1j) Ang mga official ay pwedeng sumali sa competition.
+- 1k) Ang mga official ay pwede gumawa ng iba't-ibang role (e.g. organization team, WCA Delegate, judge, score taker, scrambler).
 
 
-## <article-2><competitors><competitors> Article 2: Competitors
+## <article-2><competitors><competitors> Article 2: Mga Competitor
 
-- 2a) Any person may compete in a WCA competition if they:
-    - 2a1) Comply with WCA Regulations.
-    - 2a2) Meet the competition requirements, which must be clearly announced before the competition.
-    - 2a3) Are not suspended by WCA Board.
-- 2b) Competitors below the age of 18 must obtain consent from their parent(s)/guardian(s) to register and compete.
-- 2c) Competitors register by providing all information required by the organization team (including: name, country, date of birth, gender, contact information, selected events).
-    - 2c1) A competitor is not eligible to compete without a completed registration, as determined by the organization team.
-- 2d) A competitor's name, country, gender, and competition results are considered public information. All other personal information is considered confidential, and must not be disclosed to outside organizations/persons without the consent of the competitor.
-- 2e) Competitors must represent a country of which they hold citizenship. The WCA Delegate should verify citizenship by means of documents (e.g. a passport) at their first competition. If a competitor is found ineligible to represent the country under which they have registered, the competitor may be disqualified retroactively and/or suspended, at the discretion of the WCA Board.
-    - 2e1) The eligible countries are defined by the [WCA List of Recognized Countries](https://www.worldcubeassociation.org/regulations/countries/).
+- 2a) Kahit sinong tao ay pwedeng mag-compete sa isang WCA competition kung sila ay:
+    - 2a1) Mag-cocomply sa WCA Regulation.
+    - 2a2) Magawa ang mga requirement sa competition, na naanounce bago ang competition.
+    - 2a3) Hindi sinuspend ng WCA Board.
+- 2b) Ang mga competitor na nasa 18 taon pababa ay dapat humingi muna ng consent sa kanilang mga magulang/guardian bago mag-register at mag-compete.
+- 2c) Ang mga competitor ay nagreregister at binibigay ang mga information na nirequire ng organization team (kasama ang: pangalan, bansa, araw ng pakanganakan, kasarian, contact information, mga piniling event).
+    - 2c1) Ang isang competitor ay hindi pwedeng magcompete nang walang kumpletong registration, na tiningnan ng organization team.
+- 2d) Ang pangalan, bansa, kasarian, at mga competition result ng isang competitor ay public information. Ang ibang personal na information ay confidential at hindi dapat ipaalam sa labas ng organization/nga tao nang walang paalam sa competitor.
+- 2e) Ang isang competitor ay dapat mag-represent ng isang bansa kung saan sila ay citizen. Ang WCA Delegate ay dapat maverify ang citizenship gamit ang mga document (e.g. passport) sa kanilang unang competition. Kapag nalaman na hindi kayang magrepresent ang isang competitior ng bansang kanyang niregister, ang competitor ay posibleng madisqualify nang buo o masuspent ng WCA Board
+    - 2e1) Ang mga eligible countries ay nasa [WCA List of Recognized Countries](https://www.worldcubeassociation.org/regulations/countries/).
     - 2e2) Competitors with updates to their citizenship status may change their country of representation before or at their first competition of a calendar year. Exception: if the competitor loses citizenship of the country which they were previously representing, they must change the country of representation before or at their next competition.
     - 2e3) Competitors who have no citizenship may compete as "Stateless".
 - 2f) Competitors must obey venue rules and conduct themselves in a considerate manner.
